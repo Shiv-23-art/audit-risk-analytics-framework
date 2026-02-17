@@ -1,0 +1,101 @@
+Transaction_ID,Date,Account_Number,Transaction_Type,Amount,Currency,Counterparty,Category,Payment_Method,Risk_Incident,Risk_Type,Incident_Severity,Error_Code,User_ID,System_Latency,Login_Frequency,Failed_Attempts,IP_Region,flag_high_amount_p95,flag_extreme_amount_p99,flag_high_failed_attempts,flag_high_latency,flag_high_login_freq,flag_refund,risk_score
+TXN08050,2024-03-29,359854,Refund,9987.42,USD,Jones Group,Operations,Bank Transfer,0,,,,U381,494.89,10,5,LB,True,True,True,True,True,True,100
+TXN03630,2024-12-26,902834,Refund,9923.27,USD,Tucker-Maynard,Payroll,Bank Transfer,0,,,,U069,488.1,7,4,LT,True,True,False,True,False,True,75
+TXN05206,2024-02-29,395747,Refund,9927.06,USD,Alexander-Taylor,Inventory,Bank Transfer,0,,,,U399,133.6,1,5,AO,True,True,True,False,False,True,75
+TXN01244,2024-12-29,617152,Refund,9920.21,USD,Mercado LLC,Marketing,Cash,0,,,,U153,172.29,6,5,SV,True,True,True,False,False,True,75
+TXN05365,2024-10-19,227429,Refund,9973.05,USD,Woodard PLC,Operations,Credit Card,0,,,,U240,378.21,6,5,YE,True,True,True,False,False,True,75
+TXN02395,2024-01-25,981643,Debit,9934.23,USD,"Perez, Wells and Pratt",Operations,Bank Transfer,1,Fraud,Medium,E002,U203,293.77,10,5,SZ,True,True,True,False,True,False,75
+TXN02410,2024-09-10,748168,Refund,9970.12,USD,Kemp-Guzman,Marketing,Credit Card,0,,,,U343,412.29,8,5,IN,True,True,True,False,False,True,75
+TXN07582,2024-06-22,135622,Refund,9984.05,USD,Morales-Murphy,Marketing,Credit Card,0,,,,U247,322.28,7,5,KI,True,True,True,False,False,True,75
+TXN07342,2024-08-09,984582,Refund,9982.27,USD,Wright and Sons,Inventory,Cash,0,,,,U168,497.43,1,4,CN,True,True,False,True,False,True,75
+TXN03582,2024-08-26,555029,Refund,9919.79,USD,Weber-Alvarez,Operations,Bank Transfer,0,,,,U309,250.77,2,5,BO,True,True,True,False,False,True,75
+TXN09134,2024-12-03,291070,Refund,9921.86,USD,"Smith, Duran and Wheeler",Operations,Credit Card,0,,,,U398,285.99,10,2,KW,True,True,False,False,True,True,70
+TXN07097,2024-01-25,336184,Credit,9947.2,USD,Jones Ltd,Sales,Credit Card,0,,,,U338,440.13,3,5,MW,True,True,True,False,False,False,65
+TXN07911,2024-08-15,229387,Debit,9972.2,USD,Perez-Henry,Sales,Cash,1,Fraud,Medium,F001,U071,322.3,3,5,VN,True,True,True,False,False,False,65
+TXN08326,2024-05-02,101714,Credit,9919.02,USD,"Anderson, Gilmore and Johnson",Inventory,Cash,0,,,,U384,411.79,8,5,KR,True,True,True,False,False,False,65
+TXN08172,2024-10-25,247228,Debit,9994.44,USD,Bennett Ltd,Payroll,Credit Card,0,,,,U337,370.5,8,5,GM,True,True,True,False,False,False,65
+TXN05073,2024-06-15,178078,Debit,9953.62,USD,Reyes-Williams,Sales,Credit Card,0,,,,U437,211.07,4,5,CR,True,True,True,False,False,False,65
+TXN01470,2024-02-21,645112,Credit,9963.08,USD,"Moore, Evans and Graves",Payroll,Bank Transfer,0,,,,U017,493.66,6,0,GH,True,True,False,True,False,False,65
+TXN01629,2024-03-26,482776,Credit,9911.73,USD,"Moore, Stevens and Walker",Operations,Bank Transfer,0,,,,U124,438.17,5,5,LV,True,True,True,False,False,False,65
+TXN08556,2024-03-04,271756,Credit,9949.34,USD,Hunter-Perez,Payroll,Cash,0,,,,U206,244.8,7,5,ES,True,True,True,False,False,False,65
+TXN02723,2024-11-05,692686,Debit,9949.21,USD,Lee-Shaw,Marketing,Bank Transfer,0,,,,U005,480.3,1,1,ST,True,True,False,True,False,False,65
+TXN07263,2024-09-07,838072,Debit,9978.01,USD,Martinez-Nelson,Payroll,Bank Transfer,0,,,,U225,323.6,9,5,NO,True,True,True,False,False,False,65
+TXN07419,2024-10-01,279082,Debit,9967.93,USD,Fisher and Sons,Operations,Cash,0,,,,U407,125.77,9,5,LC,True,True,True,False,False,False,65
+TXN04826,2024-01-25,334811,Debit,9922.45,USD,Benton Group,Inventory,Bank Transfer,0,,,,U265,120.17,5,5,KN,True,True,True,False,False,False,65
+TXN03966,2024-05-17,439873,Credit,9931.61,USD,"Smith, Anderson and Daniels",Sales,Cash,0,,,,U034,371.1,9,5,MG,True,True,True,False,False,False,65
+TXN08778,2024-11-04,163504,Credit,9914.38,USD,"Keith, Thomas and Jackson",Sales,Bank Transfer,0,,,,U388,402.93,7,5,PH,True,True,True,False,False,False,65
+TXN03041,2024-04-30,191529,Credit,9940.93,USD,Obrien LLC,Operations,Cash,0,,,,U473,305.98,1,5,BR,True,True,True,False,False,False,65
+TXN09679,2024-04-25,205171,Refund,9946.89,USD,Ortiz-Gordon,Marketing,Cash,0,,,,U062,306.53,3,2,NR,True,True,False,False,False,True,60
+TXN06901,2024-07-14,560552,Refund,9941.96,USD,"Barber, Lewis and Powers",Inventory,Bank Transfer,0,,,,U369,214.04,7,1,KP,True,True,False,False,False,True,60
+TXN01834,2024-03-10,938318,Refund,9942.28,USD,"Miller, Harris and Olsen",Operations,Cash,0,,,,U296,352.32,6,1,DZ,True,True,False,False,False,True,60
+TXN08842,2024-04-04,129814,Debit,9975.96,USD,"Hernandez, Anderson and Choi",Marketing,Cash,1,Misstatement,Low,E002,U128,272.02,10,2,DK,True,True,False,False,True,False,60
+TXN08904,2024-09-16,691634,Refund,9912.09,USD,Jackson LLC,Marketing,Bank Transfer,0,,,,U193,109.92,4,2,FM,True,True,False,False,False,True,60
+TXN03536,2024-12-30,928226,Credit,9988.07,USD,"Smith, Hurley and Beltran",Operations,Cash,0,,,,U492,293.77,10,4,SC,True,True,False,False,True,False,60
+TXN06030,2024-02-21,234588,Refund,9961.58,USD,"Oconnor, Garza and Fuller",Payroll,Credit Card,0,,,,U446,232.49,9,3,DO,True,True,False,False,False,True,60
+TXN06033,2024-07-03,385539,Refund,9951.02,USD,"Bowen, Huber and Gregory",Sales,Credit Card,0,,,,U439,185.14,9,1,KH,True,True,False,False,False,True,60
+TXN03530,2024-11-27,537880,Debit,9926.2,USD,"Hines, Crawford and Humphrey",Operations,Cash,0,,,,U313,141.55,10,0,MC,True,True,False,False,True,False,60
+TXN06018,2024-11-29,540954,Credit,9917.1,USD,Johnson-Scott,Operations,Credit Card,0,,,,U342,243.54,10,2,BG,True,True,False,False,True,False,60
+TXN05492,2024-08-10,426998,Refund,9983.74,USD,Bailey-Reyes,Inventory,Credit Card,0,,,,U040,398.34,2,4,RO,True,True,False,False,False,True,60
+TXN06022,2024-01-28,852476,Refund,9820.54,USD,"Mendoza, Herrera and Silva",Marketing,Credit Card,1,Misstatement,High,E002,U256,487.11,9,5,NP,True,False,True,True,False,True,60
+TXN00022,2024-07-31,765447,Refund,9998.21,USD,Moore-Schmidt,Inventory,Cash,0,,,,U044,196.61,9,2,VN,True,True,False,False,False,True,60
+TXN09591,2024-04-07,446073,Refund,9942.27,USD,Baker-Burton,Operations,Bank Transfer,0,,,,U097,276.59,7,2,MR,True,True,False,False,False,True,60
+TXN04163,2024-08-02,895328,Refund,9957.42,USD,"Aguilar, Henry and Ellis",Marketing,Bank Transfer,0,,,,U050,256.52,3,4,TO,True,True,False,False,False,True,60
+TXN04032,2024-05-25,354365,Credit,9957.49,USD,Burke Inc,Inventory,Cash,0,,,,U056,172.25,10,3,PK,True,True,False,False,True,False,60
+TXN01038,2024-09-17,773442,Credit,9910.94,USD,Gardner and Sons,Sales,Cash,0,,,,U498,167.83,10,4,NO,True,True,False,False,True,False,60
+TXN01701,2024-01-11,575874,Refund,9968.0,USD,"Lewis, Pierce and Miller",Operations,Credit Card,1,Error,Medium,M003,U257,467.42,5,4,MM,True,True,False,False,False,True,60
+TXN01650,2024-05-24,366041,Refund,9999.54,USD,"Moore, Baker and Chan",Inventory,Bank Transfer,0,,,,U199,418.19,2,4,MV,True,True,False,False,False,True,60
+TXN08034,2024-03-09,857273,Refund,9906.77,USD,Deleon-Monroe,Marketing,Bank Transfer,0,,,,U026,299.32,2,1,PG,True,True,False,False,False,True,60
+TXN07298,2024-08-31,126356,Refund,9963.19,USD,Stephens-Ward,Operations,Credit Card,0,,,,U231,170.48,6,3,LB,True,True,False,False,False,True,60
+TXN00223,2024-08-15,432999,Refund,9992.62,USD,Fritz Inc,Inventory,Credit Card,0,,,,U361,245.05,2,0,LV,True,True,False,False,False,True,60
+TXN06307,2024-01-10,452358,Refund,9929.87,USD,Miller LLC,Marketing,Credit Card,0,,,,U326,304.4,3,3,TR,True,True,False,False,False,True,60
+TXN07169,2024-01-31,706388,Credit,9986.46,USD,Holder-Norman,Marketing,Cash,0,,,,U321,276.27,10,2,MK,True,True,False,False,True,False,60
+TXN08724,2024-07-19,861840,Refund,9944.79,USD,Mclean-Mason,Payroll,Bank Transfer,0,,,,U325,280.35,6,0,UZ,True,True,False,False,False,True,60
+TXN08325,2024-08-01,769165,Refund,9953.68,USD,Ayala PLC,Inventory,Bank Transfer,0,,,,U338,225.44,7,2,CI,True,True,False,False,False,True,60
+TXN08230,2024-03-10,424887,Refund,9969.36,USD,"Moore, Terrell and Wagner",Payroll,Bank Transfer,0,,,,U211,438.78,5,2,MX,True,True,False,False,False,True,60
+TXN02414,2024-05-24,788988,Refund,9944.1,USD,"Martin, Woods and Walker",Payroll,Cash,0,,,,U353,276.99,7,2,DO,True,True,False,False,False,True,60
+TXN00579,2024-01-16,383876,Refund,9988.22,USD,Carrillo and Sons,Inventory,Cash,0,,,,U184,465.26,4,4,MH,True,True,False,False,False,True,60
+TXN04503,2024-06-02,913624,Refund,9949.23,USD,"Rogers, Johnston and Escobar",Operations,Bank Transfer,0,,,,U293,177.31,2,2,VN,True,True,False,False,False,True,60
+TXN09456,2024-05-19,461965,Refund,9930.58,USD,"Brown, Haynes and Parks",Sales,Cash,0,,,,U175,348.27,9,1,SN,True,True,False,False,False,True,60
+TXN09513,2024-05-18,731283,Refund,9990.49,USD,Norman-Stevenson,Sales,Credit Card,0,,,,U242,409.85,4,0,CM,True,True,False,False,False,True,60
+TXN00567,2024-08-06,441210,Refund,9992.43,USD,Williams PLC,Payroll,Cash,0,,,,U218,437.16,8,2,HU,True,True,False,False,False,True,60
+TXN09695,2024-05-12,961021,Refund,9758.88,USD,Thompson-Tyler,Payroll,Bank Transfer,0,,,,U030,264.66,10,5,PK,True,False,True,False,True,True,55
+TXN01644,2024-10-30,656203,Refund,9873.62,USD,Johnston-Williams,Operations,Bank Transfer,0,,,,U283,150.32,10,5,BI,True,False,True,False,True,True,55
+TXN09407,2024-11-22,283264,Refund,9554.97,USD,Bowman and Sons,Inventory,Credit Card,0,,,,U027,334.76,10,5,PS,True,False,True,False,True,True,55
+TXN09712,2024-02-28,342256,Credit,9986.41,USD,Smith Ltd,Payroll,Bank Transfer,1,Misstatement,High,E002,U202,211.93,8,1,GA,True,True,False,False,False,False,50
+TXN09781,2024-03-07,953992,Credit,9933.8,USD,May Ltd,Sales,Bank Transfer,0,,,,U234,365.85,9,3,ET,True,True,False,False,False,False,50
+TXN01482,2024-05-11,385712,Credit,9933.68,USD,Bennett Inc,Sales,Credit Card,0,,,,U048,461.42,9,1,MG,True,True,False,False,False,False,50
+TXN08144,2024-02-20,913568,Debit,9931.33,USD,Smith LLC,Inventory,Cash,0,,,,U231,427.78,2,3,,True,True,False,False,False,False,50
+TXN02453,2024-01-16,273543,Credit,9912.57,USD,Jones-Webb,Payroll,Credit Card,0,,,,U050,287.95,1,0,AO,True,True,False,False,False,False,50
+TXN02857,2024-07-21,867840,Credit,9935.47,USD,Cooper-Brock,Operations,Cash,0,,,,U219,375.09,4,4,CZ,True,True,False,False,False,False,50
+TXN00402,2024-01-29,322399,Debit,9965.15,USD,"Kemp, Hamilton and Brennan",Sales,Bank Transfer,1,Error,Medium,F001,U172,261.15,7,0,CF,True,True,False,False,False,False,50
+TXN02572,2024-12-05,413119,Credit,9990.49,USD,Thomas-Nguyen,Operations,Credit Card,1,Error,Medium,E002,U011,439.15,2,2,NP,True,True,False,False,False,False,50
+TXN02839,2024-06-10,728119,Refund,3016.97,USD,"Miller, Ayala and Martinez",Operations,Bank Transfer,0,,,,U468,480.85,10,5,TZ,False,False,True,True,True,True,50
+TXN07585,2024-10-31,353385,Credit,9992.81,USD,"Johnson, Moore and Ward",Operations,Credit Card,0,,,,U283,431.36,7,3,CF,True,True,False,False,False,False,50
+TXN00169,2024-02-08,371340,Credit,9990.27,USD,Drake PLC,Payroll,Bank Transfer,0,,,,U280,150.91,2,0,JO,True,True,False,False,False,False,50
+TXN08594,2024-02-11,487673,Credit,9959.19,USD,"Lutz, Lopez and Woods",Operations,Credit Card,1,Error,Medium,F001,U064,304.47,8,2,IS,True,True,False,False,False,False,50
+TXN07488,2024-06-13,599499,Debit,9978.87,USD,"Bates, Peterson and Powers",Sales,Credit Card,1,Misstatement,Low,M003,U196,355.09,1,1,ML,True,True,False,False,False,False,50
+TXN02397,2024-08-14,708943,Debit,9922.87,USD,Hunter-Lewis,Operations,Bank Transfer,0,,,,U254,385.7,3,2,ME,True,True,False,False,False,False,50
+TXN02194,2024-03-17,119253,Credit,9907.77,USD,Wilson-Estes,Inventory,Credit Card,0,,,,U299,441.29,7,0,NR,True,True,False,False,False,False,50
+TXN01886,2024-03-23,282075,Refund,4113.08,USD,Hammond and Sons,Marketing,Cash,0,,,,U095,497.5,10,5,MR,False,False,True,True,True,True,50
+TXN08710,2025-01-06,845417,Credit,9941.98,USD,"Dyer, Walter and Carpenter",Inventory,Cash,0,,,,U051,307.37,8,3,DE,True,True,False,False,False,False,50
+TXN09338,2024-02-29,457288,Credit,9997.59,USD,Winters-Silva,Operations,Cash,1,Misstatement,Low,F001,U416,167.0,6,4,MH,True,True,False,False,False,False,50
+TXN00987,2024-02-18,812615,Credit,9942.63,USD,"White, Meza and Brown",Operations,Cash,0,,,,U128,103.58,3,1,MR,True,True,False,False,False,False,50
+TXN09884,2024-04-23,127783,Debit,9943.36,USD,Stevens and Sons,Operations,Cash,1,Fraud,Low,E002,U374,341.44,6,2,NL,True,True,False,False,False,False,50
+TXN00943,2024-11-22,753011,Debit,9968.45,USD,Rose-Harris,Operations,Cash,0,,,,U024,119.49,1,4,RW,True,True,False,False,False,False,50
+TXN05214,2024-01-30,762163,Credit,9966.89,USD,"Waters, Watson and Jones",Payroll,Bank Transfer,0,,,,U368,445.58,9,3,BZ,True,True,False,False,False,False,50
+TXN05535,2024-07-31,775218,Debit,9957.93,USD,Copeland Group,Inventory,Bank Transfer,0,,,,U193,366.4,6,2,KW,True,True,False,False,False,False,50
+TXN05257,2024-11-25,129037,Credit,9971.78,USD,Alvarez-Forbes,Marketing,Cash,0,,,,U040,201.86,4,0,IE,True,True,False,False,False,False,50
+TXN09199,2024-11-17,166620,Debit,9945.73,USD,"Cortez, Davis and Wallace",Operations,Bank Transfer,0,,,,U461,422.77,2,4,SE,True,True,False,False,False,False,50
+TXN03443,2024-03-18,866059,Credit,9980.91,USD,"Carpenter, Anthony and Green",Sales,Bank Transfer,0,,,,U159,290.57,6,4,TH,True,True,False,False,False,False,50
+TXN03522,2024-10-07,212364,Credit,9909.0,USD,"Shaw, Brooks and English",Marketing,Cash,0,,,,U005,385.4,7,3,SN,True,True,False,False,False,False,50
+TXN00236,2024-04-25,982811,Debit,9936.69,USD,Eaton Inc,Inventory,Cash,0,,,,U175,361.38,1,1,ZW,True,True,False,False,False,False,50
+TXN06051,2024-11-23,623322,Credit,9936.59,USD,Reese and Sons,Operations,Credit Card,0,,,,U034,119.37,7,0,DM,True,True,False,False,False,False,50
+TXN06643,2024-09-19,592667,Debit,9946.44,USD,Fox-Bailey,Sales,Credit Card,0,,,,U257,299.5,2,0,PE,True,True,False,False,False,False,50
+TXN01837,2024-05-17,523430,Debit,9991.69,USD,Ramirez-Ramos,Inventory,Cash,0,,,,U447,437.82,3,1,TZ,True,True,False,False,False,False,50
+TXN07193,2024-12-18,239808,Debit,9910.35,USD,Williams LLC,Operations,Cash,0,,,,U467,439.68,7,4,BH,True,True,False,False,False,False,50
+TXN08182,2024-11-24,733452,Credit,9914.31,USD,Moran-Gonzalez,Marketing,Credit Card,0,,,,U381,220.51,7,2,MX,True,True,False,False,False,False,50
+TXN04058,2024-01-20,774770,Debit,9933.17,USD,"Morales, Vaughn and Weber",Operations,Cash,0,,,,U134,245.54,4,4,JO,True,True,False,False,False,False,50
+TXN04050,2024-06-04,618214,Credit,9961.9,USD,"Townsend, Jenkins and Bailey",Inventory,Cash,0,,,,U017,414.65,4,1,FM,True,True,False,False,False,False,50
+TXN03998,2024-12-19,768018,Refund,6893.09,USD,French Inc,Inventory,Credit Card,0,,,,U355,479.25,10,5,KR,False,False,True,True,True,True,50
+TXN05045,2024-12-11,684125,Debit,9910.13,USD,Davis Ltd,Operations,Bank Transfer,0,,,,U387,187.54,8,1,IR,True,True,False,False,False,False,50
+TXN04978,2024-02-27,117979,Debit,9956.59,USD,Johnson-Stewart,Operations,Cash,0,,,,U024,140.13,4,0,IN,True,True,False,False,False,False,50
